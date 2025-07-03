@@ -1,2 +1,2 @@
-#summer internship project
+#my task
 This is my first repository
